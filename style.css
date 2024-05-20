@@ -1,0 +1,96 @@
+.main{
+
+    color: red;
+}
+
+.heading{
+
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.first{
+
+    width: 250px;
+    height: 35px;
+}
+
+.last{
+    width: 250px;
+    height: 35px;
+    margin-left: 20px;
+}
+
+.first::placeholder{
+    text-align: right;
+    font-size: 20px;
+}
+
+.Email_cont{
+
+    padding-top: 30px;
+}
+
+.email{
+
+    display: block;
+    height: 35px;
+    width: 530px;
+
+}
+
+.fa{
+    font-size: 24px;
+    color: burlywood;
+    margin: 0 2px;
+}
+
+.Rating{
+    padding-top: 30px;
+}
+
+td{
+    width: 50px;
+}
+
+.radio{
+
+    width: 50px;
+    transform: scale(1.5);
+}
+
+.row1{
+
+    background-color: gainsboro;
+}
+
+table{
+
+    border-collapse: collapse;
+}
+
+td{
+    border: none;
+    padding: 0;
+}
+
+.col2 input[type="radio"]{
+
+    margin-left: 20px;
+}
+
+input[type="submit"] {
+    background-color: gray;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: burlywood;
+}
