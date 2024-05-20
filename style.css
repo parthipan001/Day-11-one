@@ -71,11 +71,6 @@ table{
     border-collapse: collapse;
 }
 
-td{
-    border: none;
-    padding: 0;
-}
-
 .col2 input[type="radio"]{
 
     margin-left: 20px;
